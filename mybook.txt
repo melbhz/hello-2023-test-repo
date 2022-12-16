@@ -1,4 +1,4 @@
-Tile
+Title
 Abstract
 Method
 Exp
@@ -6,3 +6,4 @@ Discussion
 Conclusion
 Acknowledgement
 Appendice
+References
