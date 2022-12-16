@@ -1,9 +1,10 @@
 Title
 Abstract
+Literature Review
 Method
-Exp
+Experiment
 Discussion
 Conclusion
 Acknowledgement
-Appendice
+Appendex
 References
