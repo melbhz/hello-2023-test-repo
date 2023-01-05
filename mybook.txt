@@ -1,10 +1,10 @@
 Title
 Abstract
 Literature Review
-Method
+Methodology
 Experiment
 Discussion
 Conclusion
 Acknowledgement
-Appendex
+Appendix
 References
