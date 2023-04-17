@@ -1,7 +1,8 @@
 Title from head 2
 Abstract
 Methodology
-Exp
+Experiment
+Results from origin
 Discussion
 Conclusion
 Acknowledgement
