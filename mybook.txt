@@ -1,8 +1,7 @@
-Title
+Title from head
 Abstract
-Literature Review
 Methodology
-Experiment
+Exp
 Discussion
 Conclusion
 Acknowledgement
