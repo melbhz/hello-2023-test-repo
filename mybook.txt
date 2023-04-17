@@ -1,8 +1,9 @@
-Title
+Title from origin
 Abstract
 Literature Review
 Methodology
 Experiment
+Results from origin
 Discussion
 Conclusion
 Acknowledgement
