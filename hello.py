@@ -10,3 +10,5 @@ def feat1():
 def lucy():
   print('lucy')
 
+def main():
+  print('created from main')
