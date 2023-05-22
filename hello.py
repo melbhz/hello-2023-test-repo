@@ -12,3 +12,6 @@ def lucy():
 
 def main():
   print('created from main')
+  
+def test_rebase():
+  print('test_rebase')
