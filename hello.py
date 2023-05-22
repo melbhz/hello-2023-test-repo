@@ -12,3 +12,6 @@ def lucy():
 
 def main():
   print('created from main')
+
+def feat1_func2():
+  print('add another func in feat1')
